@@ -8,6 +8,11 @@ Please see the preview of the finish app below,
 
 <img src="preview.gif" alt="preview" width="300" />
 
+## Summary
+Feature and libs on focus
+- NetwokBoundResource using flow instead of LiveData
+- Koin as Service Locator
+- Fuel as Http Client
 
 ## Setup
 To compile and run the project:
